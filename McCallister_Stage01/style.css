@@ -1,0 +1,124 @@
+body {
+    padding: 20px 10px;
+    font-family: Arial;
+    max-width: 2000px;
+    margin: 0 auto; 
+    font-size: 1.6em;
+    background-color: #FDF3E7;
+}               
+
+h1 { text-align: center;
+     color: #181818; 
+     font-size: 38px;
+}
+
+h2 { margin: 5px; }
+
+h3  {margin: 2px;
+    font-size: 16px;
+}
+
+h4 {font-size: 20px;
+    text-align: center;
+    margin: 0px;
+    }
+
+p { margin: 5px 0; 
+    font-size: 20px;
+    font-family: Times New Roman; }
+
+.rows { display: table-row-group; }
+
+.lesson {
+    background-color: #FDF3E7;
+    display: table-cell; 
+    width: 5%;    
+}
+
+
+/* Lesson 01 content.  Blue row. */
+.bluecolumn1 {
+    background-color: #00CCFF;
+    font-size: 15px;
+    margin: 5px;
+    display: table-cell;
+    width: 20%;
+    padding: 15px;
+}
+
+.bluecolumn2 {
+    background-color: #0099FF;
+    margin: 5px;
+    font-size: 15px;
+     display: table-cell;
+     width: 20%;
+     padding: 15px;
+}
+
+.bluecolumn3 {
+    background-color: #0066FF;
+    margin: 5px;
+    font-size: 15px;
+    display: table-cell;
+      width: 20%;
+      padding: 15px;
+}
+
+
+/* Lesson 02 content.  Green row. */
+.greencolumn1 {
+    background-color: #B2F0E0;
+    font-size: 15px;
+    margin: 5px;
+    display: table-cell;
+    width: 20%;
+    padding: 15px;
+}
+
+.greencolumn2 {
+    background-color: #80E6CC;
+    padding: 4px;
+    margin: 5px;
+    font-size: 15px;
+     display: table-cell;
+     width: 20%;
+     padding: 15px;
+
+}
+.greencolumn3 {
+    background-color: #4DDBB8; 
+    margin: 5px;
+    font-size: 15px;
+    display: table-cell;
+    width: 20%;
+    padding: 15px;
+}
+
+/* Lesson 03 content.  Purple row. */
+.purplecolumn1 {
+    background-color: #E9C9F4;
+    font-size: 15px;
+    margin: 5px;
+    display: table-cell;
+    width: 20%;
+    padding: 15px;
+}
+
+.purplecolumn2 {
+    background-color: #E0B2F0;
+    margin: 5px;
+    font-size: 15px;
+     display: table-cell;
+     width: 20%;
+     padding: 15px;
+
+}
+.purplecolumn3 {
+    background-color: #D699EB;
+    margin: 5px;
+    font-size: 15px;
+    display: table-cell;
+    width: 20%;
+    padding: 15px;
+}
+
